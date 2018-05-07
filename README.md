@@ -8,4 +8,4 @@ Here You can find basic content of every web-page
  - HTML;
  - CSS;
 
-**Hope You'll like it;)
+**Hope You'll like it** ;)
