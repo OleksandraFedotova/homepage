@@ -4,8 +4,8 @@
 
 My very own personal website. Basically this is just a résumé.
 
-Here You can find standart content of web-page 
+Here You can find basic content of every web-page 
  - HTML;
  - CSS;
- -Images et;
-Hope You'll like it;)
+
+**Hope You'll like it;)
